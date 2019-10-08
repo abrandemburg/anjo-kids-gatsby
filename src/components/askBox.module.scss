@@ -1,0 +1,29 @@
+.ask-box {
+    margin: 0 auto;    
+    background: #FFc700;
+    margin-bottom: 30px;
+    max-width: 300px;
+    border-style: solid;
+    border-width: 1.1px;
+    border-color: #CC9F00;
+    color: #7F6300;
+    padding: 5px;
+  }
+
+  .ask-box em {
+      color: #B28B00;
+
+  }
+  
+  @media (min-width: 480px) {
+    .ask-box {
+        margin: 0 auto;    
+        background: #FFc700;
+        margin-bottom: 20px;
+        max-width: 700px;
+        border-style: solid;
+        border-width: 1.1px;
+        border-color: #CC9F00;
+        color: #7F6300;
+      }
+}

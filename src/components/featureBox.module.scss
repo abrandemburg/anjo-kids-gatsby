@@ -1,10 +1,18 @@
 .feature-box {
-    background-color: bisque;
     max-width: 260px;
-    max-height: 260px;
+    max-height: auto;
     margin-top: 10px;
+
+}
+
+.feature-box h3 {
+    color: #FFc700;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
 }
 
 .feature-box p {
     word-wrap: break-word;
+    padding: 10px;
 }

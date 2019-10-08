@@ -1,10 +1,11 @@
 import React from "react"
 import featureBoxStyles from './featureBox.module.scss'
+import DriverIcon from "./icons/driverIcon"
 
 const FeatureBox = () => {
     return (
         <div className={featureBoxStyles.featureBox}>
-            <div className={featureBoxStyles.featureIconContent}>ICONE</div>
+            <div className={featureBoxStyles.featureIconContent}><DriverIcon /></div>
             <h3>TITLE</h3>
             <p>
             Lorem Ipsum is simply dummy text of the 

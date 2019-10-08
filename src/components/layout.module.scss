@@ -21,3 +21,44 @@ article {
     background-color: #f5f5f5;
     grid-area: main;
 }
+
+.float-icon {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 10px;
+    background-color: #25d366;
+    color: #f5f5f5;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.logo-case {
+    width: 35px;
+    height: 35px;
+    margin: 0 auto;
+    padding-top: 12.5px;
+}
+
+@media (min-width: 480px) {
+    
+.float-icon {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 100px;
+    background-color: #25d366;
+    color: #f5f5f5;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+}
