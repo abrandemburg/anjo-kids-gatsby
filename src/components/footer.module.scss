@@ -33,25 +33,23 @@ footer {
 
 .icon-grid {
     display: grid;
-    grid-template-areas: ". . . . i f w . . . .";
+    grid-template-areas: ". . i f . .";
     padding-bottom: 10px;
 
 }
 
 .instagram {
-    max-width: 20px;
+    max-width: 70px;
+    padding: 5px;
     grid-area: i;
 }
 
 .facebook {
-    max-width: 20px;
+    max-width: 70px;
+    padding: 5px;
     grid-area: f;
 }
 
-.whatsapp {
-    max-width: 20px;
-    grid-area: w;
-}
 
 @media (min-width: 480px) {
     .footer {

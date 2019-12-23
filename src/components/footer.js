@@ -2,7 +2,6 @@ import React from "react"
 import footerStyles from './footer.module.scss'
 import InstagramLogo from "./icons/instagramLogo"
 import FacebookLogo from "./icons/facebookLogo"
-import WhatsappLogo from "./icons/whatsappLogo"
 
 const Footer = () => {
     
@@ -21,13 +20,10 @@ const Footer = () => {
                         <p>Redes sociais:</p>
                         <div className={footerStyles.iconGrid}>
                             <div className={footerStyles.instagram}>
-                                <InstagramLogo />
+                                <a href="https://www.instagram.com/transporteanjokids/"><InstagramLogo /></a>
                             </div>
                             <div className={footerStyles.facebook}>
-                                <FacebookLogo />
-                            </div>
-                            <div className={footerStyles.whatsapp}>
-                                <WhatsappLogo />
+                            <a href="http://facebook.com/transporteanjokids"><FacebookLogo /></a>
                             </div>
                         </div>
                     </div>
