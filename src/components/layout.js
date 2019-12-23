@@ -13,7 +13,7 @@ const Layout = (props) => {
                 {props.children}
             </main>
             <div className={layoutStyles.floatIcon}>
-                <a href="https://api.whatsapp.com/send?phone=5521965448522">
+                <a href="https://api.whatsapp.com/send?phone=552199182359">
                     <div className={layoutStyles.logoCase}><WhatsappLogo /></div>
                 </a>
             </div>

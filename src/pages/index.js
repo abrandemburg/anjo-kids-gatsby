@@ -24,7 +24,7 @@ const IndexPage = () => {
                     <div className="blockquote-wrapper">
                         <div className="blockquote">
                             <p>
-                            “Sou cliente a alguns anos, completamente satisfeita. Posso sempre contar com a empresa”.
+                            “Sou cliente há alguns anos, completamente satisfeita. Posso sempre contar com a empresa”.
                             </p>
                             <h4>&mdash;Aline S. Freitas<br /><em>Cliente Anjo Kids</em></h4>
                         </div>
@@ -33,7 +33,7 @@ const IndexPage = () => {
 
                 <span></span>
 
-                <h2>Por quê escolher a Anjo Kids?</h2>
+                <h2>Por que escolher a Anjo Kids?</h2>
                 <div className="features-box">
                     <div className="feature-box">
                         <div className="feature-icon-content"><DriverIcon /></div>
@@ -103,8 +103,8 @@ const IndexPage = () => {
                     <AskBox firstAsk={
                         "O que fazer caso meu bairro não esteja na lista?"
                         }>
-                        <em>Chame-nos no WhatsApp ou email com sua dúvida, detalhe sua necessidade 
-                            que retornaremos com a melhor posição possível para atende-lo. Temos outros 
+                        <em>Chame-nos no WhatsApp ou no email transporteanjokids@gmail.com com sua dúvida, detalhe sua necessidade 
+                            que retornaremos com a melhor posição possível para atendê-lo. Temos outros 
                             parceiros que podem, possivelmente, atender sua necessidade.
                         </em>
                     </AskBox>

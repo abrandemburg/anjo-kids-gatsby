@@ -10,11 +10,11 @@ const Footer = () => {
             <div className={footerStyles.footer}>
                 <address>
                     <div><strong>Anjo Kids Transporte e Turismo LTDA</strong></div>
-                    <div>anjokids@anjokids.com.br</div>
+                    <div>transporteanjokids@gmail.com</div>
                     <div>anjokidstransporte.com.br</div>
                 </address>
                 <div>
-                    <div>Telefone: (21)9999-9999</div>
+                    <div>Telefone: (21)99186-2359</div>
                     <div>Horário de atendimento: Dias úteis 8h às 21h</div>
                     <div>
                         <p>Redes sociais:</p>

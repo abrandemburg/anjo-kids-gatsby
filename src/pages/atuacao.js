@@ -11,7 +11,7 @@ const Atuacao = () => {
                 <div className="container">
                     <h1>Mapa de área de atuação Anjo Kids</h1>
                     <p>
-                        A Anjo Kids, hoje, atua em toda a Zona Sul e parte da Zona Oeste do Rio de Janeiro.                        
+                        A Anjo Kids, hoje, atua em toda a Zona Sul do Rio de Janeiro.                        
                     </p>
                     <MapaAtuacao />
                 </div>
