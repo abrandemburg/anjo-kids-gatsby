@@ -12,7 +12,7 @@ const Sobre = () => {
                 <p>Há mais de 20 anos atuando no transporte escolar junto ao colégio Andrews, 
                     conquistamos confiança da direção do colégio e dos pais responsáveis pelos alunos. 
                     Conforto, segurança, respeito e pontualidade são atributos indispensáveis para a excelência de nossos serviços.<br /></p>
-                <p>A frota é renovada, revisada constantemente e vistoriada pelo DETRAN e CMTR conforme a lei que rege o transporte escolar.</p>                 
+                <p>A frota é renovada, revisada constantemente e vistoriada pelo DETRAN e SMTR conforme a lei que rege o transporte escolar.</p>                 
                 
                 </div>
             </div>

@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: `http://www.transporteanjokids.com.br`,
     title: `Anjo Kids Van Escolar`,
     description: `Transporte Escolar e Turimos com segurança e qualidade. Anjo Kids Transporte.`,
     author: `André Brandemburg dos Anjos`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     'gatsby-plugin-sass',
     {
